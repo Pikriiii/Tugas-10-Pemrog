@@ -1,0 +1,24 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\10 Pertemuan 10\toLab\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Ganjil\01 Pemrograman Lanjut\02 Praktik\10 Pertemuan 10\toLab\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.SuggestedBindingRedirects.cache
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+D:\Semester 3\Pemprograman Lanjut\pertemuan 10 rev\Pertemuan10\Operasi CRUD MVC Part #1\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
